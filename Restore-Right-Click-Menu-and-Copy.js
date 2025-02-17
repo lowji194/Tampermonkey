@@ -52,4 +52,5 @@
         }
     `;
     document.head.appendChild(style);
+    console.log('Script đang hoạt động');
 })();
