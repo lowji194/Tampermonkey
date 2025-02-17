@@ -42,3 +42,4 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
 ### Giải thích chi tiết về các trường trong script:
 
 - **`@require`**: Đây là trường quan trọng để bạn thêm link Raw của script vào. Tampermonkey sẽ tự động tải script từ URL đó khi trang web được tải.
+- **Link Raw**: Đảm bảo rằng bạn đã lấy chính xác link **Raw** của file script từ GitHub (trang GitHub có thể cung cấp một tùy chọn "Raw" khi bạn nhấn vào file).
