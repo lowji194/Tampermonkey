@@ -8,9 +8,9 @@
 
 Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
 
-- **Google Chrome**: Truy cập [Chrome Web Store - Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey) và nhấn **Add to Chrome**.
-- **Firefox**: Truy cập [Mozilla Add-ons - Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) và nhấn **Add to Firefox**.
-- **Microsoft Edge**: Truy cập [Microsoft Edge Add-ons - Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey) và nhấn **Get**.
+- **Google Chrome**: Truy cập [Chrome Web Store - Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) và nhấn **Add to Chrome**.
+- **Firefox**: Truy cập [Mozilla Add-ons - Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/) và nhấn **Add to Firefox**.
+- **Microsoft Edge**: Truy cập [Microsoft Edge Add-ons - Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) và nhấn **Get**.
 
 ## Bước 2: Tạo một Script mới trong Tampermonkey
 
