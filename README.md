@@ -21,6 +21,7 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
 2. **Chỉnh sửa Script**:
    - Xóa nội dung mặc định trong cửa sổ trình soạn thảo.
    - Sao chép Link Raw của Script trên Github ví dụ https://raw.githubusercontent.com/lowji194/Tampermonkey/refs/heads/main/Restore-Right-Click-Menu-and-Copy.js
+  
    Ví dụ mã nguồn:
    ```javascript
    // ==UserScript==
