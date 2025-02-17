@@ -36,7 +36,7 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
    // ==/UserScript==
    
 3. **Nhập Script**:
-   - Dán mã script vào, bạn nhấn File > Save hoặc nhấn Ctrl + S để lưu.
+   - Dán mã script vào, bạn nhấn **File > Save** hoặc nhấn **Ctrl + S** để lưu.
    - Nhấp biểu tượng Tampermonkey và kích hoạt Script vừa cài đặt
 
 ### Giải thích chi tiết về các trường trong script:
