@@ -21,7 +21,7 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
 2. **Chỉnh sửa Script**:
    - Xóa nội dung mặc định trong cửa sổ trình soạn thảo.
    - Sao chép Link Raw của Script trên Github ví dụ: https://raw.githubusercontent.com/lowji194/Tampermonkey/refs/heads/main/Restore-Right-Click-Menu-and-Copy.js
-   - sau đó cập nhật vào đoạn mã bên dưới
+   - Chỉnh sửa script của bạn như sau:
   
    Ví dụ mã nguồn:
    ```javascript
@@ -34,3 +34,11 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
    // @match        *://*/*
    // @require      Dán link Script vào đây
    // ==/UserScript==
+
+
+### Giải thích chi tiết về các trường trong script:
+
+- **`@require`**: Đây là trường quan trọng để bạn thêm link Raw của script vào. Tampermonkey sẽ tự động tải script từ URL đó khi trang web được tải.
+- **`@match`**: Trường này xác định các trang web mà script sẽ áp dụng. `*://*/*` có nghĩa là script sẽ chạy trên mọi trang web, nhưng bạn có thể thay đổi nếu muốn giới hạn nó chỉ hoạt động trên một số trang web cụ thể.
+
+Hãy thử các bước trên và nếu gặp khó khăn nào, đừng ngần ngại yêu cầu thêm sự hỗ trợ nhé!
