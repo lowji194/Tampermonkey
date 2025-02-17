@@ -20,7 +20,8 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
 
 2. **Chỉnh sửa Script**:
    - Xóa nội dung mặc định trong cửa sổ trình soạn thảo.
-   - Sao chép Link Raw của Script trên Github ví dụ https://raw.githubusercontent.com/lowji194/Tampermonkey/refs/heads/main/Restore-Right-Click-Menu-and-Copy.js
+   - Sao chép Link Raw của Script trên Github ví dụ: https://raw.githubusercontent.com/lowji194/Tampermonkey/refs/heads/main/Restore-Right-Click-Menu-and-Copy.js
+   - sau đó cập nhật vào đoạn mã bên dưới
   
    Ví dụ mã nguồn:
    ```javascript
@@ -31,5 +32,5 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
    // @description  Mổ tả chức năng của Script
    // @author       You
    // @match        *://*/*
-   // @require      https://raw.githubusercontent.com/lowji194/Tampermonkey/refs/heads/main/Restore-Right-Click-Menu-and-Copy.js
+   // @require      Dán link Script vào đây
    // ==/UserScript==
