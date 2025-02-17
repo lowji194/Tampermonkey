@@ -1,3 +1,5 @@
+[![🇺🇸 English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=Google%20Translate)](README-EN.md)
+---
 # Hướng dẫn cài đặt và sử dụng Tampermonkey Script từ GitHub
 
 ## Giới thiệu
