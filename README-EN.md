@@ -50,5 +50,5 @@ Example source code:
 ### Detailed explanation of the fields in the script:
 
 - **`@require`**: This is an important field where you add the Raw link of the script. Tampermonkey will automatically load the script from that URL when the web page is loaded.
-
+- **@match**: This is an important field to define which websites your script will run on.
 - **Link Raw**: Make sure you have correctly grabbed the **Raw** link of the script file from GitHub (the GitHub page may provide a "Raw" option when you click on the file).
