@@ -33,7 +33,7 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
    // @version      0.1
    // @description  Mổ tả chức năng của Script
    // @author       You
-   // @match        *://*/*
+   // @match        https://example1.com/*
    // @require      Dán link Script vào đây
    // ==/UserScript==
    ```
@@ -44,4 +44,5 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
 ### Giải thích chi tiết về các trường trong script:
 
 - **`@require`**: Đây là trường quan trọng để bạn thêm link Raw của script vào. Tampermonkey sẽ tự động tải script từ URL đó khi trang web được tải.
+- **`@match`**: Đây là trường quan trọng để xác định Script của bạn sẽ hoạt động ở những website nào
 - **Link Raw**: Đảm bảo rằng bạn đã lấy chính xác link **Raw** của file script từ GitHub (trang GitHub có thể cung cấp một tùy chọn "Raw" khi bạn nhấn vào file).
