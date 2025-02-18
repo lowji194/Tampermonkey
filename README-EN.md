@@ -41,7 +41,7 @@ Example source code:
 // @match *://*/*
 // @require Paste the Script link here
 // ==/UserScript==
-
+```
 3. **Enter the Script**:
 
 - Paste the script code, click **File > Save** or press **Ctrl + S** to save.
