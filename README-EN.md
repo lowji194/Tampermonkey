@@ -38,7 +38,7 @@ Example source code:
 // @version 0.1
 // @description Describe the function of the Script
 // @author You
-// @match *://*/*
+// @match        https://example1.com/*
 // @require Paste the Script link here
 // ==/UserScript==
 ```
