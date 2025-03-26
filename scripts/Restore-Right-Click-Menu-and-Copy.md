@@ -14,9 +14,9 @@ Nếu bạn chưa cài đặt **Tampermonkey**, làm theo các bước sau:
 
 2. **Chỉnh sửa Script**:
    - Xóa nội dung mặc định trong cửa sổ trình soạn thảo.
-   - Copy toàn bộ mã nguồn bên dưới
+   - Copy toàn bộ Script bên dưới
   
-   Mã nguồn:
+   Script:
    ```javascript
   	// ==UserScript==
   	// @name         Restore Text Selection
